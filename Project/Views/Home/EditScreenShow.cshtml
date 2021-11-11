@@ -1,0 +1,101 @@
+﻿@model Project.Models.AnimalForm
+
+@{
+    ViewBag.Title = "Edit Screen";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="alertDiv" class="alert alert-warning" role="alert">
+    @Html.ValidationSummary()
+    @if (ViewBag.FileError != null)
+    {
+        <div>
+            <ul>
+                <li>
+                    File isn't supported.
+                </li>
+            </ul>
+        </div>
+    }
+</div>
+
+<div class="container" style="background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+                        background: rgba(204, 204, 204, 0.5);
+                        border-radius:4px;">
+
+    <form class="form-group needs-validation" asp-action="EnableChanges" asp-controller="Home" enctype="multipart/form-data" novalidate>
+
+        @Html.LabelFor(model => model.AnimalId)
+        @Html.TextBoxFor(model => model.AnimalId, new { @readonly = true })
+        <small id="idHelp" class="text-muted">You can't change the animal id.</small>
+        <br />
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <br />
+        <label asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" />
+        <br />
+        <label asp-for="PictureSource"></label>
+        <div class="row" style="margin-left:0px; margin-right:0px;">
+            <input class="form-control col-sm-9" id="FileInput" asp-for="PictureSource" accept="image/*" />
+            <button id="currentImgBtn" class="btn btn-primary col-sm-3" type="button">Click to view current image</button>
+            <small id="idHelp" class="text-muted">Only JPG,PNG,JPEG,GIF</small>
+        </div>
+        <label asp-for="Description"></label>
+        <textarea class="form-control" asp-for="Description" rows="3"></textarea>
+        <small class="text-muted">Max Char: 300</small>
+        <br />
+        <p>
+            Enter Category:
+            <select id="CategoryId" name="CategoryId">
+                @foreach (var item in ViewBag.Categories)
+                {
+                    if (item.CategoryId == ViewBag.CurrentCategory)
+                    {
+                        <option selected value="@item.CategoryId">@item.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@item.CategoryId">@item.Name</option>
+                    }
+                }
+            </select>
+        </p>
+        <br />
+        <button class="btn btn-primary" type="submit">Save changes</button>
+    </form>
+</div>
+
+
+<div id="dialog">
+    <img src="data:image/jpg;base64, @Convert.ToBase64String(ViewBag.CurrentImage)" id="popupImage" alt="image" />
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+
+            var alertsDiv = $('#alertDiv');
+            var alerts = $('.validation-summary-valid ul li');
+
+            // Check if validation div is empty and the custom div isn't created:
+            if (alerts.length == 1 && alertsDiv.children().length == 1) {
+                alertsDiv.hide();
+            } else {
+                alertsDiv.show();
+            }
+
+            $('#currentImgBtn').click(function () {
+                $('#dialog').dialog('open');
+            });
+
+            $('#dialog').dialog({
+                title: "Current image:",
+                draggable: false,
+                resizable: false,
+                closeOnEscape: false,
+                autoOpen: false
+            });
+        });
+    </script>
+}

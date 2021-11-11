@@ -1,0 +1,913 @@
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\package-lock.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\package.json
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+C:\SelaCollege\Developing ASP.NET MVC Web Applications\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV2\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\BootStrap exercises\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV3ImagesInDB\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\schre\Desktop\MVCProjectVresions\MVCProjectV4NewTables\MVCWebProject\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\libman.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.exe
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.pdb
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.Views.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Project.Views.pdb
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project.StaticWebAssets.xml
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project.styles.css
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.input.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.TagHelpers.output.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.RazorCoreGenerate.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddNewAnimalShow.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorShow.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\CatalogShow.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\DisplayAnimal.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditScreenShow.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeScreenShow.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.Views.pdb
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.dll
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.pdb
+\\Mac\Home\Desktop\csMVCWebProject\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache

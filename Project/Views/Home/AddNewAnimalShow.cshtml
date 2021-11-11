@@ -1,0 +1,88 @@
+﻿@model Project.Models.AnimalForm
+
+@{
+    ViewBag.Title = "Add New Animal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="alertDiv" class="alert alert-warning" role="alert">
+    @Html.ValidationSummary()
+    @if (ViewBag.FileError != null)
+    {
+        <div>
+            <ul>
+                <li>
+                    File isn't supported.
+                </li>
+            </ul>
+        </div>
+    }
+</div>
+
+<div class="container" style="background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+                        background: rgba(204, 204, 204, 0.5);
+                        border-radius:4px;">
+
+    <form asp-action="AddNewAnimalToDatabase" asp-controller="Home" enctype="multipart/form-data">
+
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <br />
+        <label asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" />
+        <br />
+        <label asp-for="PictureSource"></label>
+        <input class="form-control" asp-for="PictureSource" accept="image/*" />
+        <small id="idHelp" class="text-muted">Only JPG,PNG,JPEG,GIF</small>
+        <br />
+        <label asp-for="Description"></label>
+        <textarea class="form-control" asp-for="Description" rows="3"></textarea>
+        <small class="text-muted">Max Char: 300</small>
+        <br />
+        <p>
+            Enter Category:
+            <select id="CategoryId" name="CategoryId" required>
+                @if (ViewBag.CurrentCategory != null)
+                {
+                    @foreach (var item in ViewBag.Categories)
+                    {
+                        if (item.CategoryId == ViewBag.CurrentCategory)
+                        {
+                            <option selected value="@item.CategoryId">@item.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@item.CategoryId">@item.Name</option>
+                        }
+                    }
+                }
+                else
+                {
+                    <option selected disabled>--Pick a category--</option>
+                    @foreach (var item in ViewBag.Categories)
+                    {
+                        <option value="@item.CategoryId">@item.Name</option>
+                    }
+                }
+            </select>
+        </p>
+        <br />
+
+        <button class="btn btn-primary" type="submit">Add</button>
+    </form>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            var alertsDiv = $('#alertDiv');
+            var alerts = $('.validation-summary-valid ul li');
+            // Check if validation div is empty and the custom div isn't created:
+            if (alerts.length == 1 && alertsDiv.children().length == 1) {
+                alertsDiv.hide();
+            } else {
+                alertsDiv.show();
+            }
+        });
+    </script>
+}

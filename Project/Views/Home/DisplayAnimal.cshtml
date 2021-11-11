@@ -1,0 +1,75 @@
+﻿@model Project.Models.DisplayModel
+
+@{
+    ViewBag.Title = "Display Animal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <div class="col-sm">
+                <img src="data:image/jpg;base64, @Convert.ToBase64String(Model.animal.Photo)" />
+            </div>
+        </div>
+
+        <div class="col-8">
+            <div class="col-sm" style="background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+                            background: rgba(204, 204, 204, 0.2);
+                            border-radius:4px;">
+
+                <h1>
+                    Name: @Model.animal.Name
+                    <span class="badge badge-secondary">@Model.animal.Category.Name</span>
+                </h1>
+                <h3>Age: @Model.animal.Age</h3>
+                <p class="text-justify">Description: <br /> @Model.animal.Description</p>
+            </div>
+        </div>
+
+        <div class="w-100"></div>
+        <div class="col">
+            <h1>Comments:</h1>
+            <table class="table table-light" style="background: rgba(255,255,255,0.5);">
+                @foreach (var item in Model.Comments)
+                {
+                    <tr>
+                        <td scope="row">@item.CommentData</td>
+                    </tr>
+                }
+            </table>
+        </div>
+
+        <div class="col">
+            <form id="formBag" asp-action="AddComment" asp-controller="Home" asp-route-AnimalId="@Model.animal.AnimalId">
+
+                <div class="input-group flex-nowrap">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="inputGroup-sizing-default">Enter comment here</span>
+                    </div>
+                    <input id="inp" name="Input" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" />
+                </div>
+                <button id="subBtn" type="submit" style="visibility:hidden">Submit comment</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            var input = document.getElementById("inp");
+
+            input.addEventListener("keyup", function (event) {
+                // Number 13 is the "Enter" key on the keyboard
+                if (event.keyCode === 13) {
+
+                    event.preventDefault();
+
+                    document.getElementById("subBtn").click();
+                }
+            });
+        });
+    </script>
+}

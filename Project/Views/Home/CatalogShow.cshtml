@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Project.Models.Animal>
+
+@{
+    ViewBag.Title = "Catalog Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    @@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+            font-size: 3.5rem;
+        }
+    }
+
+    .jumbotron {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        margin-bottom: 0;
+        background-color: #fff;
+    }
+
+    @@media (min-width: 768px) {
+        .jumbotron {
+            padding-top: 6rem;
+            padding-bottom: 6rem;
+        }
+    }
+
+    .jumbotron p:last-child {
+        margin-bottom: 0;
+    }
+
+    .jumbotron h1 {
+        font-weight: 300;
+    }
+
+    .jumbotron .container {
+        max-width: 40rem;
+    }
+
+    footer {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+        footer p {
+            margin-bottom: .25rem;
+        }
+</style>
+
+<section class="jumbotron text-center" style="background: rgba(204, 204, 204, 0.6);">
+    <div class="container" style="background: rgba(204, 204, 204, 0.19);">
+        <h1>@ViewBag.CurrentCategory.Name</h1>
+        <p class="lead text-muted">@ViewBag.CurrentCategory.Description</p>
+
+        <form asp-action="CatalogShow" asp-controller="Home" style="text-align:center">
+            <div class="badge badge-primary text-wrap">Select a category:</div>
+            <select id="CategoryId" name="CategoryId" class="form-control">
+                @foreach (var item in ViewBag.Categories)
+                {
+                    @if (ViewBag.CurrentCategory.CategoryId == item.CategoryId)
+                    {
+                        <option selected onclick="this.form.submit(@item.CategoryId)" value="@item.CategoryId">@item.Name</option>
+                    }
+                    else
+                    {
+                        <option onclick="this.form.submit(@item.CategoryId)" value="@item.CategoryId">@item.Name</option>
+                    }
+                }
+            </select>
+        </form>
+    </div>
+</section>
+
+<div class="album py-5" style="background: rgba(204, 204, 204, 0.4);">
+    <div class="container">
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <img width="338" height="225" src="data:image/jpg;base64, @Convert.ToBase64String(@item.Photo)" />
+
+                        <div class="card-body">
+                            <p class="card-text">@item.Name</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <form asp-action="DisplayAnimal" asp-route-id="@item.AnimalId">
+                                        <button type="submit" class="btn btn-sm btn-outline-secondary">Details</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

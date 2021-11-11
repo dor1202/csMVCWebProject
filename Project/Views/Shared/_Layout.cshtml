@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <!--#region Scripts and links for bootstrap, jquery and jqueryUI-->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/Scripts/SearchScript.js"></script>
+    <script src="~/lib/jqueryUI/jquery-ui.js"></script>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/twitter-bootstrap/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="~/lib/twitter-bootstrap/css/bootstrap-reboot.css" rel="stylesheet" />
+    <link href="~/lib/jqueryUI/jquery-ui.css" rel="stylesheet" />
+    <!--#endregion-->
+
+    <script src="~/Scripts/LayoutScript.js"></script>
+    <link href="~/Styles/LayoutStyleSheet.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
+        <a class="navbar-brand" asp-action="HomeScreenShow">
+            <img src="~/Images/icon.jpg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy" />
+            Pet Shop
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li id="HomeARef" class="nav-item">
+                    <a class="nav-link" asp-action="HomeScreenShow">Home</a>
+                </li>
+                <li id="CatalogARef" class="nav-item">
+                    <a class="nav-link" asp-action="CatalogShow">Catalog</a>
+                </li>
+                <li id="AdministratorARef" class="nav-item">
+                    <a class="nav-link" asp-action="AdministratorShow">Administrator</a>
+                </li>
+            </ul>
+        </div>
+
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts", required: true)
+    }
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Project.Models.HomeModel>
+
+@{
+    ViewBag.Title = "Starting Screen";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="badge badge-primary text-wrap">Top 2 most reviewed animals are:</div>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th scope="col">Image</th>
+            <th scope="col">Name</th>
+            <th scope="col">Content</th>
+            <th scope="col">Number of comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="data:image/jpg;base64, @Convert.ToBase64String(@item.Photo)" />
+                </td>
+                <td>@item.Name</td>
+                <td>@item.Content</td>
+                <td>@item.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-center" style ="background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+                background: rgba(204, 204, 204, 0.2);
+                border-radius:4px;">
+
+    <blockquote class="blockquote text-center">
+        <p class="mb-0" style="color:lightgrey">Rescue: it's not just a verb, it's a promise.</p>
+        <footer class="blockquote-footer">Writen by: <cite title="Source Title">Google</cite></footer>
+    </blockquote>
+</div>
